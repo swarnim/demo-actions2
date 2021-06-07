@@ -13,7 +13,7 @@ In this session, we are going to be deploying an application within a **Docker**
       ```Dockerfile
       #########################################
       #########################################
-      ### Dockerfile to run some Some Build ###
+      ### Dockerfile to run some Some Build. ###	
       #########################################
       #########################################
 
